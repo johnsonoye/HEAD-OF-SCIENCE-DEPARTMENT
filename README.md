@@ -31,16 +31,12 @@ As the **Head of Department (HOD) of Science**, I'm an experienced academic and 
 * I support postgraduate supervision and undergraduate research projects.
 * I encourage ethical research conduct and adherence to best scientific practices.
 
----
-
 ### **5. Laboratory and Resource Management**
 
-* Oversees laboratories to ensure they are well-equipped, functional, and safe.
-* Ensures proper procurement, maintenance, and utilization of scientific equipment.
-* Enforces laboratory safety standards, waste management, and environmental compliance.
-* Coordinates with laboratory assistants and technologists for efficient operations.
-
----
+* I oversee laboratories to ensure they are well-equipped, functional, and safe.
+* I ensure proper procurement, maintenance, and utilization of scientific equipment.
+* I enforce laboratory safety standards, waste management, and environmental compliance.
+* I coordinate with laboratory assistants and technologists for efficient operations.
 
 ### **6. Staff Leadership and Development**
 
@@ -49,43 +45,32 @@ As the **Head of Department (HOD) of Science**, I'm an experienced academic and 
 * Ensures fair evaluation, appraisal, and promotion processes.
 * Encourages teamwork, accountability, and a positive work culture.
 
----
-
 ### **7. Student Support and Academic Welfare**
 
-* Ensures academic advising, mentoring, and effective communication with students.
-* Handles student-related issues fairly and professionally.
-* Promotes discipline, inclusivity, and ethical behavior.
-* Encourages student participation in scientific clubs, competitions, and outreach activities.
-
----
+* I ensure academic advising, mentoring, and effective communication with students.
+* I handle student-related issues fairly and professionally.
+* I promote discipline, inclusivity, and ethical behaviour.
+* I encourage student participation in scientific clubs, competitions, and outreach activities.
 
 ### **8. Administration and Governance**
 
-* Manages departmental budgets, reports, and official correspondence.
-* Ensures compliance with institutional policies, accreditation requirements, and regulatory bodies.
-* Represents the department in faculty boards, senate, and external engagements.
-* Maintains accurate academic and administrative records.
-
----
+* I manage departmental budgets, reports, and official correspondence.
+* I ensure compliance with institutional policies, accreditation requirements, and regulatory bodies.
+* I represent the department in faculty boards, the senate, and external engagements.
+* I maintain accurate academic and administrative records.
 
 ### **9. Ethics, Safety, and Quality Assurance**
 
-* Upholds academic integrity, transparency, and ethical leadership.
-* Ensures compliance with health, safety, and environmental regulations.
-* Promotes quality assurance, monitoring, and continuous improvement.
-* Encourages responsible use of resources and sustainability practices.
-
----
-
+* I uphold academic integrity, transparency, and ethical leadership.
+* I ensure compliance with health, safety, and environmental regulations.
+* I promote quality assurance, monitoring, and continuous improvement.
+* I encourage responsible use of resources and sustainability practices.
+  
 ### **10. Community Engagement and Partnerships**
 
-* Builds partnerships with industry, research institutions, and professional bodies.
-* Encourages community-based science education and outreach.
-* Promotes the department’s visibility and reputation locally and internationally.
+* I build partnerships with industry, research institutions, and professional bodies.
+* I encourage community-based science education and outreach.
+* I promote the department’s visibility and reputation locally and internationally.
 
----
-
-### **Summary**
 
 An ideal Head of Department of Science combines **academic excellence, strategic leadership, effective administration, and strong ethical values**. By fostering a collaborative and innovative environment, the HOD ensures high-quality science education, impactful research, and sustainable departmental development.
