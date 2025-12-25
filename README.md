@@ -71,6 +71,3 @@ As the **Head of Department (HOD) of Science**, I'm an experienced academic and 
 * I build partnerships with industry, research institutions, and professional bodies.
 * I encourage community-based science education and outreach.
 * I promote the department’s visibility and reputation locally and internationally.
-
-
-An ideal Head of Department of Science combines **academic excellence, strategic leadership, effective administration, and strong ethical values**. By fostering a collaborative and innovative environment, the HOD ensures high-quality science education, impactful research, and sustainable departmental development.
